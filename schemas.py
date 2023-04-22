@@ -8,3 +8,4 @@ class BookData(BaseModel):
     edition: str
     publication_year: int
     authors: str
+    author_id: int
